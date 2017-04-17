@@ -1,9 +1,11 @@
 # api documentation for  [parse-react (v0.5.2)](https://github.com/ParsePlatform/ParseReact)  [![npm package](https://img.shields.io/npm/v/npmdoc-parse-react.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-parse-react) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-parse-react.svg)](https://travis-ci.org/npmdoc/node-npmdoc-parse-react)
 #### Use Parse data in React applications
 
-[![NPM](https://nodei.co/npm/parse-react.png?downloads=true)](https://www.npmjs.com/package/parse-react)
+[![NPM](https://nodei.co/npm/parse-react.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/parse-react)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-parse-react/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-parse-react_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-parse-react/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-parse-react/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-parse-react/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-parse-react/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-parse-react/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-parse-react/build/screenCapture.npmPackageListing.svg)
 
@@ -68,13 +70,11 @@
     ],
     "maintainers": [
         {
-            "name": "andrewimm",
-            "email": "andrewi@fb.com"
+            "name": "andrewimm"
         }
     ],
     "name": "parse-react",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/ParsePlatform/ParseReact.git"
@@ -85,16 +85,6 @@
     "version": "0.5.2"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module parse-react](#apidoc.module.parse-react)
-
-
-
-# <a name="apidoc.module.parse-react"></a>[module parse-react](#apidoc.module.parse-react)
 
 
 
