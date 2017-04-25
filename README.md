@@ -1,4 +1,7 @@
-# api documentation for  [parse-react (v0.5.2)](https://github.com/ParsePlatform/ParseReact)  [![npm package](https://img.shields.io/npm/v/npmdoc-parse-react.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-parse-react) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-parse-react.svg)](https://travis-ci.org/npmdoc/node-npmdoc-parse-react)
+# npmdoc-parse-react
+
+#### basic api documentation for  [parse-react (v0.5.2)](https://github.com/ParsePlatform/ParseReact)  [![npm package](https://img.shields.io/npm/v/npmdoc-parse-react.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-parse-react) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-parse-react.svg)](https://travis-ci.org/npmdoc/node-npmdoc-parse-react)
+
 #### Use Parse data in React applications
 
 [![NPM](https://nodei.co/npm/parse-react.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/parse-react)
@@ -82,7 +85,8 @@
     "scripts": {
         "test": "NODE_ENV=test jest"
     },
-    "version": "0.5.2"
+    "version": "0.5.2",
+    "bin": {}
 }
 ```
 
